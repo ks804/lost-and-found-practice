@@ -20,3 +20,6 @@
 ### TDD
 ### 단위 테스트
 - pytest
+- code metric
+- lizard
+- cpd
